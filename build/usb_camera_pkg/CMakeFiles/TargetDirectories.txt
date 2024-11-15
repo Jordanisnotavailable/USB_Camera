@@ -1,0 +1,9 @@
+/home/rose2025/ros2_ws/build/usb_camera_pkg/CMakeFiles/uninstall.dir
+/home/rose2025/ros2_ws/build/usb_camera_pkg/CMakeFiles/usb_camera_pkg_uninstall.dir
+/home/rose2025/ros2_ws/build/usb_camera_pkg/CMakeFiles/test.dir
+/home/rose2025/ros2_ws/build/usb_camera_pkg/CMakeFiles/edit_cache.dir
+/home/rose2025/ros2_ws/build/usb_camera_pkg/CMakeFiles/rebuild_cache.dir
+/home/rose2025/ros2_ws/build/usb_camera_pkg/CMakeFiles/list_install_components.dir
+/home/rose2025/ros2_ws/build/usb_camera_pkg/CMakeFiles/install.dir
+/home/rose2025/ros2_ws/build/usb_camera_pkg/CMakeFiles/install/local.dir
+/home/rose2025/ros2_ws/build/usb_camera_pkg/CMakeFiles/install/strip.dir

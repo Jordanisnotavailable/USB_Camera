@@ -1,0 +1,16 @@
+/home/rose2025/ros2_ws/install/usb_camera_pkg/share/usb_camera_pkg/launch/usb_camera_launch.py
+/home/rose2025/ros2_ws/install/usb_camera_pkg/share/ament_index/resource_index/package_run_dependencies/usb_camera_pkg
+/home/rose2025/ros2_ws/install/usb_camera_pkg/share/ament_index/resource_index/parent_prefix_path/usb_camera_pkg
+/home/rose2025/ros2_ws/install/usb_camera_pkg/share/usb_camera_pkg/environment/ament_prefix_path.sh
+/home/rose2025/ros2_ws/install/usb_camera_pkg/share/usb_camera_pkg/environment/ament_prefix_path.dsv
+/home/rose2025/ros2_ws/install/usb_camera_pkg/share/usb_camera_pkg/environment/path.sh
+/home/rose2025/ros2_ws/install/usb_camera_pkg/share/usb_camera_pkg/environment/path.dsv
+/home/rose2025/ros2_ws/install/usb_camera_pkg/share/usb_camera_pkg/local_setup.bash
+/home/rose2025/ros2_ws/install/usb_camera_pkg/share/usb_camera_pkg/local_setup.sh
+/home/rose2025/ros2_ws/install/usb_camera_pkg/share/usb_camera_pkg/local_setup.zsh
+/home/rose2025/ros2_ws/install/usb_camera_pkg/share/usb_camera_pkg/local_setup.dsv
+/home/rose2025/ros2_ws/install/usb_camera_pkg/share/usb_camera_pkg/package.dsv
+/home/rose2025/ros2_ws/install/usb_camera_pkg/share/ament_index/resource_index/packages/usb_camera_pkg
+/home/rose2025/ros2_ws/install/usb_camera_pkg/share/usb_camera_pkg/cmake/usb_camera_pkgConfig.cmake
+/home/rose2025/ros2_ws/install/usb_camera_pkg/share/usb_camera_pkg/cmake/usb_camera_pkgConfig-version.cmake
+/home/rose2025/ros2_ws/install/usb_camera_pkg/share/usb_camera_pkg/package.xml
